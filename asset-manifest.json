@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/coronavirus/static/css/main.e3f054a2.chunk.css",
-    "main.js": "/coronavirus/static/js/main.16c706cb.chunk.js",
-    "main.js.map": "/coronavirus/static/js/main.16c706cb.chunk.js.map",
-    "runtime-main.js": "/coronavirus/static/js/runtime-main.7f77d10b.js",
-    "runtime-main.js.map": "/coronavirus/static/js/runtime-main.7f77d10b.js.map",
-    "static/js/2.1b480aca.chunk.js": "/coronavirus/static/js/2.1b480aca.chunk.js",
-    "static/js/2.1b480aca.chunk.js.map": "/coronavirus/static/js/2.1b480aca.chunk.js.map",
-    "index.html": "/coronavirus/index.html",
-    "precache-manifest.f66edcd4943c6fac8c684d3cc0a4681f.js": "/coronavirus/precache-manifest.f66edcd4943c6fac8c684d3cc0a4681f.js",
-    "service-worker.js": "/coronavirus/service-worker.js",
-    "static/css/main.e3f054a2.chunk.css.map": "/coronavirus/static/css/main.e3f054a2.chunk.css.map",
-    "static/js/2.1b480aca.chunk.js.LICENSE.txt": "/coronavirus/static/js/2.1b480aca.chunk.js.LICENSE.txt",
-    "static/media/image.png": "/coronavirus/static/media/image.d7265326.png"
+    "main.css": "/coronachinavirux/static/css/main.e3f054a2.chunk.css",
+    "main.js": "/coronachinavirux/static/js/main.16c706cb.chunk.js",
+    "main.js.map": "/coronachinavirux/static/js/main.16c706cb.chunk.js.map",
+    "runtime-main.js": "/coronachinavirux/static/js/runtime-main.1c2e0b82.js",
+    "runtime-main.js.map": "/coronachinavirux/static/js/runtime-main.1c2e0b82.js.map",
+    "static/js/2.ef1cb14c.chunk.js": "/coronachinavirux/static/js/2.ef1cb14c.chunk.js",
+    "static/js/2.ef1cb14c.chunk.js.map": "/coronachinavirux/static/js/2.ef1cb14c.chunk.js.map",
+    "index.html": "/coronachinavirux/index.html",
+    "precache-manifest.936aebae20ff9f94686c61b216471b91.js": "/coronachinavirux/precache-manifest.936aebae20ff9f94686c61b216471b91.js",
+    "service-worker.js": "/coronachinavirux/service-worker.js",
+    "static/css/main.e3f054a2.chunk.css.map": "/coronachinavirux/static/css/main.e3f054a2.chunk.css.map",
+    "static/js/2.ef1cb14c.chunk.js.LICENSE.txt": "/coronachinavirux/static/js/2.ef1cb14c.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/coronachinavirux/static/media/image.d7265326.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7f77d10b.js",
-    "static/js/2.1b480aca.chunk.js",
+    "static/js/runtime-main.1c2e0b82.js",
+    "static/js/2.ef1cb14c.chunk.js",
     "static/css/main.e3f054a2.chunk.css",
     "static/js/main.16c706cb.chunk.js"
   ]
